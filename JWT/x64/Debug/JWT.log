@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ardem\source\repos\JWT\JWT\main.cpp(1,1): warning C4828: The file contains a character starting at offset 0x3e50 that is illegal in the current source character set (codepage 65001).
+  JWT.vcxproj -> C:\Users\ardem\source\repos\JWT\x64\Debug\JWT.exe
